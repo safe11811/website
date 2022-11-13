@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #2a2d2a; /* Green */
+  color: white;
+}
